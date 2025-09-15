@@ -1,13 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./App.css";
-import Home from "./components/Home";
-import Loja from "./components/Loja";
-import Sobre from "./components/Sobre";
-import Login from "./components/Login";
-import Contato from "./components/Contato";
-import Noticias from "./components/Noticias";
-import Podcast from "./components/Podcast";
-import Peneiras from "./components/Peneiras";
 
 function Placeholder() {
   return (
